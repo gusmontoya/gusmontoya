@@ -70,7 +70,7 @@
 * <a href="">Trakr</a> - Job application Tracker
 
 ![Gus's GitHub stats](
-    <!-- https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark -->
+    https://github-readme-stats.vercel.app/api?username=gusmontoya&show_icons=true&theme=dark
     )
 
 
