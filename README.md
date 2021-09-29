@@ -1,6 +1,6 @@
 ### Hi there, I'm Gus 👋
 
-## I'm a Son, Friend, Developer, and Multi-Lingual!!
+## I'm a Son, Friend, Developer, and Multi-Lingual (Eglish/Spanish/Chinese-Mandarin!!)
 
 - 🔭 I am just about done with Nucamp Coding Boot Camp: [Learn to code and become a web developer on your schedule, without breaking the bank!][course]!
 
