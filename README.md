@@ -62,7 +62,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Nucamp](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+![Nucamp](https://img.shields.io/badge/Nucamp-%232C3454.svg?style=for-the-badge&logo=Nucamp&logoColor=Blue)
 ---
 ### My Favorite Project Repos
 * <a href="">Padilla Tableware E-commerce</a> - E-Commerce Tableware store
