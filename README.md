@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 🚲 Fun fact: I love to jog and ride triathlon bikes!
+- 🏃 Fun fact: I love to jog and ride triathlon bikes! 🚲
 
 ### Connect with me:
 
