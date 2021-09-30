@@ -15,8 +15,6 @@
 <a href="https://www.linkedin.com/in/gusmontoya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="gusdevportfolio.netlify.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
-<br />
-
 ### Languages, Frameworks, Platforms, Libraries and Tools :
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
