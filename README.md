@@ -69,10 +69,8 @@
 * <a href="">YoDaddy</a> - California Park information site
 * <a href="">Trakr</a> - Job application Tracker
 
-![Gus's GitHub stats](
-    https://github-readme-stats.vercel.app/api?username=gusmontoya&show_icons=true&theme=dark
-    )
- <a href="https://github.com/gusmontoya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmontoya&layout=compact&theme=tokyonight" /></a>
+![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusmontoya&show_icons=true&theme=dark)
+<a href="https://github.com/gusmontoya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusmontoya&layout=compact&theme=tokyonight" /></a>
 
 
 
