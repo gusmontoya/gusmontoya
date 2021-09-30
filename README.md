@@ -50,7 +50,7 @@
 ---
 ### My Favorite Project Repos
 * <a href="">Padilla Tableware E-commerce</a> - E-Commerce Tableware store
-* <a href="">YoDaddy</a> - California Park information site
+* <a href="">Park info</a> - California Park information site
 * <a href="">Trakr</a> - Job application Tracker
 
 ![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusmontoya&show_icons=true&theme=dark)
