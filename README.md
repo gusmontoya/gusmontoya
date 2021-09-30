@@ -1,13 +1,13 @@
 ### Hi there, I'm Gus 👋
 
-## I'm a Son, Friend, Developer, and Multi-Lingual (English/Spanish/Chinese-Mandarin!!)
+## I'm a Son, Brother, Friend, Developer, and Multi-Lingual! (English/Spanish/Chinese-Mandarin!!)
 
 - 🔭 I am just about done with Nucamp Coding Boot Camp: [Learn to code and become a web developer on your schedule, without breaking the bank!](https://www.nucamp.co/)
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣, but seriously read bellow for specifics🔍
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 🏃 Fun fact: I love to jog and ride triathlon bikes! 🚲
+- 🏃 Fun fact: I love to jog and ride triathlon bikes 🚲
 
 ### Connect with me:
 
