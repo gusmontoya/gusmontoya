@@ -2,7 +2,7 @@
 
 ## I'm a Son, Friend, Developer, and Multi-Lingual (Eglish/Spanish/Chinese-Mandarin!!)
 
-- 🔭 I am just about done with Nucamp Coding Boot Camp: [Learn to code and become a web developer on your schedule, without breaking the bank!][course]!
+- 🔭 I am just about done with Nucamp Coding Boot Camp: [Learn to code and become a web developer on your schedule, without breaking the bank!](https://www.nucamp.co/)!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
