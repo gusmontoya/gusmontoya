@@ -4,7 +4,7 @@
 
 - 🔭 I am a Nucamp Coding Boot Camp graduate 2021 - Full Stack Developer: [Learn to code and become a web developer on your schedule, without breaking the bank!](https://www.nucamp.co/)
 
-- 🌱 I’m currently learning everything 🤣, but seriously read bellow for specifics🔍
+- 🌱 I’m currently learning everything 🤣, but seriously read below for specifics🔍
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 🏃 Fun fact: I love to jog and ride triathlon bikes 🚲
